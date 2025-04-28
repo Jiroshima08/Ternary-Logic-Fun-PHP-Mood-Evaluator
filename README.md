@@ -1,0 +1,1 @@
+# PHP-Project-with-Ternary-Operator
