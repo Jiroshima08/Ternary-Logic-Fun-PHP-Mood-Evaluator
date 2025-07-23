@@ -64,7 +64,7 @@ This project was built to:
 
 **Gyro Vinz L. Sagal**  
 Bachelor of Science in Information Technology
-Mariano Marcos State University
+
 ---
 
 ## 📝 License
