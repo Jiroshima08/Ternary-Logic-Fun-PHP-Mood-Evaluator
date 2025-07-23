@@ -63,8 +63,8 @@ This project was built to:
 ## 👨‍💻 Author
 
 **Gyro Vinz L. Sagal**  
-Bachelor of Science in Information Technology – 2B  
-
+Bachelor of Science in Information Technology
+Mariano Marcos State University
 ---
 
 ## 📝 License
