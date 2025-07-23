@@ -1,4 +1,4 @@
-# 💘 Ternary Logic Fun – PHP Mood & Simpness Evaluator
+# 💘 Ternary Logic Fun – PHP Mood Evaluator
 
 A lighthearted and humorous PHP web application that evaluates your *"simpness level"* based on your current mood. Whether you're mildly delulu or already imagining the wedding, this playful tool responds with customized advice, reactions, and tips — all while demonstrating key PHP concepts.
 
