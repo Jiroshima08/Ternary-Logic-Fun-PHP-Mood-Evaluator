@@ -1,6 +1,6 @@
-# 💘 Ternary Logic Fun – PHP Mood Evaluator
+# 💘 FeelFactor – Mood-Based PHP Evaluator with Conditional Logic
 
-A lighthearted and humorous PHP web application that evaluates your *"simpness level"* based on your current mood. Whether you're mildly delulu or already imagining the wedding, this playful tool responds with customized advice, reactions, and tips — all while demonstrating key PHP concepts.
+A lighthearted and humorous PHP web application that evaluates your *"simpness level"* based on your current mood. Whether you're mildly delulu or already imagining the wedding, this playful tool responds with customized advice, reactions, and tips — all while **demonstrating key PHP concepts**.
 
 This project showcases the use of core **PHP control structures**, including **conditionals**, **loops**, **arrays**, and — of course — the **ternary operator** to deliver interactive and fun responses.
 
